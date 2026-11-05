@@ -1,0 +1,11 @@
+{
+  "name": "Anas Print — Outil Comptable",
+  "short_name": "Anas Print",
+  "description": "Outil de comptabilité et gestion des factures pour Anas Print.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#111111",
+  "orientation": "portrait",
+  "icons": []
+}
